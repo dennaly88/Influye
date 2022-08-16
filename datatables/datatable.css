@@ -1,0 +1,54 @@
+
+
+body{
+
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-container{
+ margin:150px auto;
+width: 1500px;
+
+
+
+}
+
+table{
+
+  background-color: aliceblue;  
+  width: 90%;
+  text-align: center;
+}
+
+th, td{
+    padding: 20px;
+    
+}
+label{
+
+    color: aliceblue; 
+
+}
+
+#example_info{
+    color: aliceblue; 
+
+}
+
+#example_paginate{
+    color: aliceblue; 
+
+}
+
+thead{
+  
+  background: #28d;
+ 
+  color: #fff;
+
+
+}
+
+
+
